@@ -17,8 +17,8 @@ Exploratory analysis of fashion trend from 2018 to 2022 in SQL, Google Sheets an
 | Key Fields | category, color, material, season, gender, age_group, price ($), discount (%), sales_count, month_of_sale, year_of_sale |
 
 **Data Notes**
-- The category column of the spreadsheet sometimes didn't match the product name (ex. product name is pattern skirt (male) is categorized as shoes whereas pattern skirt (female) is categorized as skirt)
-- No duplicates or blank cells (using COUNTBLANK) found.
+> - The category column of the spreadsheet sometimes didn't match the product name (ex. product name is pattern skirt (male) is categorized as shoes whereas pattern skirt (female) is categorized as skirt)
+> - No duplicates or blank cells (using COUNTBLANK) found.
 
 ## Tools
 - Google Sheets, BigQuery
